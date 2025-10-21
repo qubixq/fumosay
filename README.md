@@ -1,9 +1,8 @@
-FumoSay
+# FumoSay ᗜˬᗜ
 
 > “⑨ says hello!”  
 > A extensible **Fumo-themed cowsay alternative** written in Python.
 
----
 
 ## Installation
 
